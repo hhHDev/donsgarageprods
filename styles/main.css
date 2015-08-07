@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: black;
+	margin: 0;
+	padding: 0;
+
+}
+
+/*
+#wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+}  */
+
+
+#spacer1, #spacer2, #spacer3 {
+	background-color: #696969;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	
+}
+
+
+#image1 {
+	
+		height: 100vh;
+    background-image: url('../images/the-dark-still-1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: 100% auto;
+}
+
+#image2 {
+		height: 100vh;
+	  background-image: url('../images/vater-paul-still-1');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+#vaterpaulimg, #thedarkimg {
+	max-width: 100%;
+	margin:0;
+}
+
+.text-1 {
+	color: #BFBFBF;
+
+}
+
